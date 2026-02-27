@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color:rgba(0,0,0,0)!important;">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Playtime Shop ZXSTORE</title>
+<link rel="stylesheet" href="style.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body style="background-color:rgba(0,0,0,0)!important;">
+
+<div class="background" id="bg"></div>
+
+<div class="container" id="container" style="display:none;">
+  <div class="dot lefttop"></div>
+  <div class="dot righttop"></div>
+  <div class="dot leftbottom"></div>
+  <div class="dot rightbottom"></div>
+  <div class="header">
+    <div class="header-title">
+      <p>🎮 Playtime Shop</p>
+      <svg id="closeBtn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18"/>
+        <line x1="6" y1="6" x2="18" y2="18"/>
+      </svg>
+    </div>
+    <div class="header-info">
+      <span id="pointsDisplay">0 Points</span>
+      <span id="countdownDisplay">⏱ --:--</span>
+    </div>
+  </div>
+  <div class="tabs" id="tabsContainer">
+    <button class="tab active" data-cat="all">All</button>
+  </div>
+  <div class="playtime-list" id="shopGrid"></div>
+  <div class="footer-bar">
+    <span>⌛ Session Time:</span>
+    <span id="sessionDisplay">00:00:00</span>
+  </div>
+</div>
+
+<div class="modal-overlay" id="modalOverlay" style="display:none;">
+  <div class="modal">
+    <div class="dot lefttop"></div>
+    <div class="dot righttop"></div>
+    <div class="dot leftbottom"></div>
+    <div class="dot rightbottom"></div>
+    <p class="modal-title">Confirm Purchase</p>
+    <p class="modal-body" id="modalBody"></p>
+    <div class="modal-actions">
+      <button class="modal-btn confirm" id="confirmBtn">✔ Confirm</button>
+      <button class="modal-btn cancel"  id="cancelBtn">✖ Cancel</button>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
