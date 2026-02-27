@@ -179,3 +179,6 @@ RegisterCommand('addp', function(source, args)
     TriggerClientEvent('QBCore:Notify', source, 'Added ' .. amount .. ' points to player ' .. targetId .. '.', 'success')
     TriggerClientEvent('playtime:pointsUpdated', targetId)
 end, false)
+
+-- https://discord.gg/zx0
+--[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]

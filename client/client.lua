@@ -87,3 +87,6 @@ CreateThread(function()
         end
     end
 end)
+
+-- https://discord.gg/zx0
+--[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]----[ZXSTORE]
