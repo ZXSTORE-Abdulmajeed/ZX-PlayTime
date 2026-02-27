@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'PlaytimeScript'
-description 'QBCore Playtime Rewards System'
+author 'Abdulmajeed (lzc.)'
+description 'Playtime Script By Abdulmajeed (lzc.)'
 version '1.0.0'
 
 shared_scripts {
