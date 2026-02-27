@@ -1,4 +1,4 @@
-# Play Time Script By Abdulmajeed (lzc.)
+# [Play Time Script By Abdulmajeed (lzc.)]( https://discord.gg/zx0)
 
 ## Config
 <img width="1721" height="842" alt="image" src="https://github.com/user-attachments/assets/50cda8b4-0fc8-4131-883c-d256148ce307" />
